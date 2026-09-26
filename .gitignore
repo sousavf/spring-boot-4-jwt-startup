@@ -33,3 +33,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Local secrets and signing material
+.env
+src/main/resources/jwt_private_key.pem
